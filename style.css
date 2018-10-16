@@ -1,0 +1,250 @@
+
+body {
+  background-color: #FFB6C1;
+  line-height: 1;
+}
+.menu {   
+  background-color: gray; 
+  height:100px;
+  position: fixed; 
+  margin: 0%;
+  top: 0%;
+  width:15%; 
+} 
+.menu a { 
+  display: block; 
+  color: white; 
+  font-family: 'Ranga', cursive;
+  font-size: 25px;
+}
+.menu a:hover {
+    background-color: black;
+}
+.menu ul
+{
+  margin:0;
+  text-align:left;
+}
+.menu li {
+  display: block;
+  list-style: none;
+}
+.welcome {
+	text-align : center;
+	font-size : 30px;
+	font-family: 'Lobster', cursive;
+}
+.info {
+    background-color: #FFB6C1;
+	color : black;
+ width: 50%;
+  margin: 20%;
+  padding: 5%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+  font-family: 'Ranga', cursive;
+	font-size : 20px;
+}
+
+.nation {
+ background-color: #FFB6C1;
+	color : black;
+	width : 50%;
+	padding : 5%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	margin :20%;
+  font-family: 'Ranga', cursive;
+}
+
+.major {
+	 background-color: #FFB6C1;
+	color : black;
+	width : 50%;
+	padding : 5%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	margin :20%;
+  font-family: 'Ranga', cursive;
+}
+
+.enjoy {
+	text-align : center;
+	font-size : 30px;
+	font-family: 'Lobster', cursive;
+}
+.resume {
+	text-align : center;
+	  font-family: 'Ranga', cursive;
+}
+
+.re1 {
+	 background-color: #FFB6C1;
+	color : black;
+	width : 25%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	position : static;
+  font-family: 'Ranga', cursive;
+    width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.re2 {
+	 background-color: #FFB6C1;
+	color : black;
+	width : 25%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	position : static;
+  font-family: 'Ranga', cursive;
+    width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.re3 {
+	 background-color: #FFB6C1;
+	color : black;
+	width : 25%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	position : static;
+  font-family: 'Ranga', cursive;
+    width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  text-align: center;
+}
+.re3 ul {
+	  margin:0;
+	text-align = center;
+}
+.re3 li {
+  display: block;
+  list-style: none;
+}
+
+.re4 	 {background-color: #FFB6C1;
+	color : black;
+	width : 25%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	position : static;
+  font-family: 'Ranga', cursive;
+    width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  text-align: center;
+}
+.re4 ul {
+	  margin:0;
+	text-align = center;
+}
+.re4 li {
+  display: block;
+  list-style: none;
+}
+
+.re5 	 {background-color: #FFB6C1;
+	color : black;
+	width : 25%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	position : static;
+  font-family: 'Ranga', cursive;
+    width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  text-align: center;
+}
+.re5 ul {
+	  margin:0;
+	text-align = center;
+}
+.re5 li {
+  display: block;
+  list-style: none;
+}
+
+.re6 {	 background-color: #FFB6C1;
+	color : black;
+	width : 25%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	position : static;
+  font-family: 'Ranga', cursive;
+    width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.re6 ul {
+	  margin:0;
+	text-align = center;
+}
+.re6 li {
+  display: block;
+  list-style: none;
+}
+
+.int {
+	text-align : center;
+	font-size : 30px;
+	font-family: 'Lobster', cursive;
+}
+.in1 {
+
+	 background-color: #FFB6C1;
+	color : black;
+	width : 50%;
+	padding : 5%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	margin :20%;
+  font-family: 'Ranga', cursive;
+
+}
+.in2 {  background-color: #FFB6C1;
+	color : black;
+	width : 60%;
+	padding : 5%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	margin :20%;
+  font-family: 'Ranga', cursive;
+}
+.in3  {background-color: #FFB6C1;
+	color : black;
+	width : 50%;
+	padding : 5%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	margin :20%;
+  font-family: 'Ranga', cursive;
+}
+.in4 {
+	 background-color: #FFB6C1;
+	color : black;
+	width : 50%;
+	padding : 5%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	margin :20%;
+  font-family: 'Ranga', cursive;
+}
+.in5{
+	 background-color: #FFB6C1;
+	color : black;
+	width : 50%;
+	padding : 5%;
+	border : 15px solid #BC8F8F;
+	border-style : double;
+	margin :20%;
+  font-family: 'Ranga', cursive;
+}
+ 
