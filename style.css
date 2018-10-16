@@ -48,6 +48,10 @@ body {
 	font-family: 'Ranga', cursive;
 	font-size : 20px;
 }
+.nation .video {
+ width : 300px;
+ height : 250px;
+}
 
 .nation {
 	background-color: #FFB6C1;
@@ -59,6 +63,7 @@ body {
 	margin :20%;
 	font-family: 'Ranga', cursive;
 }
+
 
 .major {
 	background-color: #FFB6C1;
