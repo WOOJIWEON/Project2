@@ -1,5 +1,8 @@
-
 body {
+  background-color: #FFB6C1;
+  line-height: 1;
+}
+
   background-color: #FFB6C1;
   line-height: 1;
 }
@@ -39,33 +42,33 @@ body {
 	color : black;
  width: 50%;
   margin: 20%;
-  padding: 5%;
+	padding: 5%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
 	font-size : 20px;
 }
 
 .nation {
- background-color: #FFB6C1;
+	background-color: #FFB6C1;
 	color : black;
 	width : 50%;
 	padding : 5%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	margin :20%;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
 }
 
 .major {
-	 background-color: #FFB6C1;
+	background-color: #FFB6C1;
 	color : black;
 	width : 50%;
 	padding : 5%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	margin :20%;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
 }
 
 .enjoy {
@@ -75,73 +78,74 @@ body {
 }
 .resume {
 	text-align : center;
-	  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
 }
 
 .re1 {
-	 background-color: #FFB6C1;
+	background-color: #FFB6C1;
 	color : black;
 	width : 25%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	position : static;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
     width: 90%;
-  margin: 20px 20px 20px 20px;
-  padding: 20px;
-  text-align: center;
+	margin: 20px 20px 20px 20px;
+	padding: 20px;
+	text-align: center;
 }
 
 .re2 {
-	 background-color: #FFB6C1;
+	background-color: #FFB6C1;
 	color : black;
 	width : 25%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	position : static;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
     width: 90%;
-  margin: 20px 20px 20px 20px;
-  padding: 20px;
-  text-align: center;
+	margin: 20px 20px 20px 20px;
+	padding: 20px;
+	text-align: center;
 }
 
 .re3 {
-	 background-color: #FFB6C1;
+	background-color: #FFB6C1;
 	color : black;
 	width : 25%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	position : static;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
     width: 90%;
-  margin: 20px 20px 20px 20px;
-  padding: 20px;
-  text-align: center;
+	margin: 20px 20px 20px 20px;
+	padding: 20px;
+	text-align: center;
 }
 .re3 ul {
-	  margin:0;
+	margin:0;
 	text-align = center;
 }
 .re3 li {
-  display: block;
-  list-style: none;
+	display: block;
+	list-style: none;
 }
 
-.re4 	 {background-color: #FFB6C1;
+.re4 	 {
+	background-color: #FFB6C1;
 	color : black;
 	width : 25%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	position : static;
-  font-family: 'Ranga', cursive;
-    width: 90%;
-  margin: 20px 20px 20px 20px;
-  padding: 20px;
-  text-align: center;
+	font-family: 'Ranga', cursive;
+	width: 90%;
+	margin: 20px 20px 20px 20px;
+	padding: 20px;
+	text-align: center;
 }
 .re4 ul {
-	  margin:0;
+	margin:0;
 	text-align = center;
 }
 .re4 li {
@@ -149,17 +153,18 @@ body {
   list-style: none;
 }
 
-.re5 	 {background-color: #FFB6C1;
+.re5 	 {
+	background-color: #FFB6C1;
 	color : black;
 	width : 25%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	position : static;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
     width: 90%;
-  margin: 20px 20px 20px 20px;
-  padding: 20px;
-  text-align: center;
+	margin: 20px 20px 20px 20px;
+	padding: 20px;
+	text-align: center;
 }
 .re5 ul {
 	  margin:0;
@@ -170,17 +175,18 @@ body {
   list-style: none;
 }
 
-.re6 {	 background-color: #FFB6C1;
+.re6 {	 
+	background-color: #FFB6C1;
 	color : black;
 	width : 25%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	position : static;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
     width: 90%;
-  margin: 20px 20px 20px 20px;
-  padding: 20px;
-  text-align: center;
+	margin: 20px 20px 20px 20px;
+	padding: 20px;
+	text-align: center;
 }
 
 .re6 ul {
@@ -199,52 +205,54 @@ body {
 }
 .in1 {
 
-	 background-color: #FFB6C1;
+	background-color: #FFB6C1;
 	color : black;
 	width : 50%;
 	padding : 5%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	margin :20%;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
 
 }
-.in2 {  background-color: #FFB6C1;
+.in2 {  
+	background-color: #FFB6C1;
 	color : black;
 	width : 60%;
 	padding : 5%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	margin :20%;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
 }
-.in3  {background-color: #FFB6C1;
+.in3  {
+	background-color: #FFB6C1;
 	color : black;
 	width : 50%;
 	padding : 5%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	margin :20%;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
 }
 .in4 {
-	 background-color: #FFB6C1;
+	background-color: #FFB6C1;
 	color : black;
 	width : 50%;
 	padding : 5%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	margin :20%;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
 }
-.in5{
-	 background-color: #FFB6C1;
+.in5 {
+	background-color: #FFB6C1;
 	color : black;
 	width : 50%;
 	padding : 5%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	margin :20%;
-  font-family: 'Ranga', cursive;
+	font-family: 'Ranga', cursive;
 }
  
