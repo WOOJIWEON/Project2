@@ -79,10 +79,10 @@ body {
 }
 
 .re1 {
-	background-color: #FFB6C1;
+	background-color: #FFFFFF;
 	color : black;
 	width : 25%;
-	border : 15px solid #BC8F8F;
+	border : 15px solid #000000;
 	border-style : double;
 	position : static;
 	font-family: 'Ranga', cursive;
@@ -93,10 +93,10 @@ body {
 }
 
 .re2 {
-	background-color: #FFB6C1;
+	background-color: #FFFFFF;
 	color : black;
 	width : 25%;
-	border : 15px solid #BC8F8F;
+	border : 15px solid #000000;
 	border-style : double;
 	position : static;
 	font-family: 'Ranga', cursive;
@@ -107,10 +107,10 @@ body {
 }
 
 .re3 {
-	background-color: #FFB6C1;
+	background-color: #FFFFFF;
 	color : black;
 	width : 25%;
-	border : 15px solid #BC8F8F;
+	border : 15px solid #000000;
 	border-style : double;
 	position : static;
 	font-family: 'Ranga', cursive;
@@ -129,10 +129,10 @@ body {
 }
 
 .re4 	 {
-	background-color: #FFB6C1;
+	background-color: #FFFFFF;
 	color : black;
 	width : 25%;
-	border : 15px solid #BC8F8F;
+	border : 15px solid #000000;
 	border-style : double;
 	position : static;
 	font-family: 'Ranga', cursive;
@@ -151,10 +151,10 @@ body {
 }
 
 .re5 	 {
-	background-color: #FFB6C1;
+	background-color: #FFFFFF;
 	color : black;
 	width : 25%;
-	border : 15px solid #BC8F8F;
+	border : 15px solid #000000;
 	border-style : double;
 	position : static;
 	font-family: 'Ranga', cursive;
@@ -173,10 +173,10 @@ body {
 }
 
 .re6 {	 
-	background-color: #FFB6C1;
+	background-color: #FFFFFF;
 	color : black;
 	width : 25%;
-	border : 15px solid #BC8F8F;
+	border : 15px solid #000000;
 	border-style : double;
 	position : static;
 	font-family: 'Ranga', cursive;
@@ -202,53 +202,53 @@ body {
 }
 .in1 {
 
-	background-color: #FFB6C1;
+	background-color: #FFE4C4;
 	color : black;
 	width : 50%;
 	padding : 5%;
-	border : 15px solid #BC8F8F;
-	border-style : double;
+	border : 15px solid #DC143C;
+	border-style : dotted;
 	margin :20%;
 	font-family: 'Ranga', cursive;
 
 }
 .in2 {  
-	background-color: #FFB6C1;
+	background-color: #FFE4C4;
 	color : black;
 	width : 60%;
 	padding : 5%;
-	border : 15px solid #BC8F8F;
-	border-style : double;
+	border : 15px solid #DC143C;
+	border-style : dotted;
 	margin :20%;
 	font-family: 'Ranga', cursive;
 }
 .in3  {
-	background-color: #FFB6C1;
+	background-color: #FFE4C4;
 	color : black;
 	width : 50%;
 	padding : 5%;
-	border : 15px solid #BC8F8F;
-	border-style : double;
+	border : 15px solid #DC143C;
+	border-style : dotted;
 	margin :20%;
 	font-family: 'Ranga', cursive;
 }
 .in4 {
-	background-color: #FFB6C1;
+	background-color: #FFE4C4;
 	color : black;
 	width : 50%;
 	padding : 5%;
-	border : 15px solid #BC8F8F;
-	border-style : double;
+	border : 15px solid #DC143C;
+	border-style : dotted;
 	margin :20%;
 	font-family: 'Ranga', cursive;
 }
 .in5 {
-	background-color: #FFB6C1;
+	background-color: #FFE4C4;
 	color : black;
 	width : 50%;
 	padding : 5%;
-	border : 15px solid #BC8F8F;
-	border-style : double;
+	border : 15px solid #DC143C;
+	border-style : dotted;
 	margin :20%;
 	font-family: 'Ranga', cursive;
 }
