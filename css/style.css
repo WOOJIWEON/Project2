@@ -243,7 +243,7 @@ body {
 	border-style : dotted;
 	margin :20%;
 	font-family: 'Ranga', cursive;
-
+    float: none;
 }
 .in2 {  
 	background-color: #FFE4C4;
@@ -254,6 +254,7 @@ body {
 	border-style : dotted;
 	margin :20%;
 	font-family: 'Ranga', cursive;
+    float: none;
 }
 .in3  {
 	background-color: #FFE4C4;
@@ -264,6 +265,7 @@ body {
 	border-style : dotted;
 	margin :20%;
 	font-family: 'Ranga', cursive;
+    float: none;
 }
 .in4 {
 	background-color: #FFE4C4;
@@ -274,8 +276,10 @@ body {
 	border-style : dotted;
 	margin :20%;
 	font-family: 'Ranga', cursive;
+    float: none;
 }
 .in5 {
+	float:none;
 	background-color: #FFE4C4;
 	color : black;
 	width : 50%;
