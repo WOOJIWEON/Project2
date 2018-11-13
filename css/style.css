@@ -5,11 +5,11 @@ body {
 
 .menu {   
   background-color: gray; 
-  height:100px;
+  height:90px;
   position: fixed; 
   margin: 0%;
   top: 0%;
-  width:15%; 
+  width:12%; 
 } 
 .menu a { 
   display: block; 
@@ -37,34 +37,68 @@ body {
 .info {
     background-color: #FFB6C1;
 	color : black;
- width: 50%;
-  margin: 20%;
-	padding: 5%;
+	margin-top: 8%;
+	width: 70%;
+	margin: auto;
+	margin-top: 5%;
+	padding: 5px;
+	padding-top: 2%;
+	padding-bottom: 3%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	font-family: 'Ranga', cursive;
 	font-size : 20px;
 }
 
+.info ul {
+	position : relative;
+	bottom : 150px;
+	left : 50px;
+
+}
+.image1 {
+	position : relative;
+	left : 500px;
+}
+.image2 {
+	width: 35%;
+	height: auto;
+	float: left;
+	margin: 5px;
+}
+.image3 {
+	width: 35%;
+	height: auto;
+	float: left;
+	margin: 5px;
+}
 .nation {
 	background-color: #FFB6C1;
 	color : black;
-	width : 50%;
-	padding : 5%;
+	margin-top: 8%;
+	width: 70%;
+	margin: auto;
+	margin-top: 5%;
+	padding: 10px;
+	padding-top: 2%;
+	padding-bottom: 3%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
-	margin :20%;
 	font-family: 'Ranga', cursive;
 }
 
 .major {
 	background-color: #FFB6C1;
 	color : black;
-	width : 50%;
-	padding : 5%;
+	margin-top: 8%;
+	width: 70%;
+	margin: auto;
+	margin-top: 5%;
+	padding: 10px;
+	padding-top: 2%;
+	padding-bottom: 3%;
 	border : 15px solid #BC8F8F;
 	border-style : double;
-	margin :20%;
 	font-family: 'Ranga', cursive;
 }
 
