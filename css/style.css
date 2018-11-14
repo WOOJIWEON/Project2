@@ -86,6 +86,16 @@ body {
 	font-size : 30px;
 	font-family: 'Lobster', cursive;
 }
+
+.about {
+	color : black;
+	margin: auto;
+	font-family: 'Ranga', cursive;
+	font-size : 50px;
+	margin-top : 20px;
+	margin-bottom : 30px;
+}
+
 .info {
     background-color: #FFB6C1;
 	color : black;
@@ -96,6 +106,7 @@ body {
 	border-style : double;
 	font-family: 'Ranga', cursive;
 	font-size : 20px;
+	line-height: 140%;
 }
 
 .info ul {
@@ -104,6 +115,8 @@ body {
 	text-align: center;
 }
 .image1 {
+	width: 25%;
+	height: 25%;
 	float: left;
 }
 .image2 {
@@ -131,12 +144,12 @@ body {
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	font-family: 'Ranga', cursive;
+	line-height: 110%;
 }
 
 .major {
 	background-color: #FFB6C1;
 	color : black;
-	margin-top: 8%;
 	width: 70%;
 	margin: auto;
 	margin-top: 5%;
@@ -146,9 +159,11 @@ body {
 	border : 15px solid #BC8F8F;
 	border-style : double;
 	font-family: 'Ranga', cursive;
+    line-height: 150%;
 }
 
 .enjoy {
+	color :red;
 	text-align : center;
 	font-size : 30px;
 	font-family: 'Lobster', cursive;
@@ -279,12 +294,13 @@ body {
 .int {
     margin-top:100px;
 	text-align : center;
-	font-size : 30px;
+	font-size : 50px;
 	font-family: 'Lobster', cursive;
 }
 .in1 {
 
 	background-color: #FFE4C4;
+    font-size : 30px;
 	color : black;
 	width : 50%;
 	padding : 5%;
@@ -296,6 +312,7 @@ body {
 }
 .in2 {  
 	background-color: #FFE4C4;
+    font-size : 30px;
 	color : black;
 	width : 60%;
 	padding : 5%;
@@ -307,18 +324,20 @@ body {
 }
 .in3  {
 	background-color: #FFE4C4;
-	color : black;
-	width : 50%;
-	padding : 5%;
-	border : 15px solid #DC143C;
-	border-style : dotted;
-	margin :20%;
-	font-family: 'Ranga', cursive;
+    font-size : 30px;
+    color : black;
+    width : 50%;
+    padding : 5%;
+    border : 15px solid #DC143C;
+    border-style : dotted;
+    margin :20%;
+    font-family: 'Ranga', cursive;
     float: none;
 }
 .in4 {
-	background-color: #FFE4C4;
-	color : black;
+    font-size : 30px;
+    background-color: #FFE4C4;
+    color : black;
 	width : 50%;
 	padding : 5%;
 	border : 15px solid #DC143C;
@@ -329,6 +348,7 @@ body {
 }
 .in5 {
 	float:none;
+    font-size : 30px;
 	background-color: #FFE4C4;
 	color : black;
 	width : 50%;
